@@ -6,12 +6,12 @@ import { IUserCredentials } from '../../models/i-user-credentials';
 })
 export class AuthService {
   private users: IUserCredentials[] = [{
-    email: 'marcelo@senai.com',
-    password: '123456789',
+    email: 'gizellemanu@hotmail',
+    password: '987456321',
   },
   {
-    email: 'andre@senai.com',
-    password: '123456789',
+    email: 'jose.maria@hotmail.com',
+    password: '321456987',
   },
   ];
 
